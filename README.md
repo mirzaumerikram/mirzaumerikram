@@ -36,8 +36,6 @@ My background in **Business Administration** (University of Gujrat) allows me to
 
 ### 📊 **GitHub Stats**
 
-### 📊 GitHub Stats
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mirzaumerikram&theme=radical&hide_border=true)
 
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mirzaumerikram&layout=compact&theme=radical&hide_border=true)
