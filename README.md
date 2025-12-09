@@ -36,9 +36,11 @@ My background in **Business Administration** (University of Gujrat) allows me to
 
 ### 📊 **GitHub Stats**
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=mirzaumerikram&show_icons=true&theme=radical&hide_border=true)
+### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirzaumerikram&layout=compact&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mirzaumerikram&theme=radical&hide_border=true)
+
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mirzaumerikram&layout=compact&theme=radical&hide_border=true)
 
 ---
 
