@@ -33,13 +33,11 @@ My background in **Business Administration** (University of Gujrat) allows me to
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+### 📊 GitHub Stats
 
-### 📊 **GitHub Stats**
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mirzaumerikram&theme=radical&hide_border=true)
+![General Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=mirzaumerikram&show_icons=true&theme=radical&hide_border=true)
 
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mirzaumerikram&layout=compact&theme=radical&hide_border=true)
-
 ---
 
 ### 📫 **Let's Connect**
