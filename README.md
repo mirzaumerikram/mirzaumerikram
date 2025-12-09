@@ -36,10 +36,9 @@ My background in **Business Administration** (University of Gujrat) allows me to
 
 ### 📊 **GitHub Stats**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mirzaumerikram&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirzaumerikram&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
-</div>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=mirzaumerikram&show_icons=true&theme=radical&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirzaumerikram&layout=compact&theme=radical&hide_border=true)
 
 ---
 
