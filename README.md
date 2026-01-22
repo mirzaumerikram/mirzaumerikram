@@ -9,7 +9,7 @@ My background in **Business Administration** (University of Gujrat) allows me to
 ---
 
 ### 🚀 **Current Focus**
-- 🔭 **Working on:** Enterprise AI solutions at [Evren AI](https://evren.ai) and a Commute Safety Platform called "Smart Ride (Muhafiz)".
+- 🔭 **Working on:** Enterprise AI solutions at [Evren AI](https://evren.ai).
 - 🌱 **Learning:** Advanced RAG Pipelines, Agentic AI, and System Design.
 - 💼 **Freelancing:** Helping clients automate workflows and build chatbots on Fiverr.
 
