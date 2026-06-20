@@ -2,7 +2,7 @@
 
 ### Associate AI Engineer | Full Stack Developer | Automation Specialist
 
-I am a Computer Science student (7th Sem) at the **University of Central Punjab**, currently working as an **Associate AI Engineer at Evren AI**. 
+I am a Computer Science student (8th Sem) at the **University of Central Punjab**, currently working as an **Associate AI Engineer at Evren AI**. 
 
 My background in **Business Administration** (University of Gujrat) allows me to build software that not only runs efficiently but solves actual business problems.
 
